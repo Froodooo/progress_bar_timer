@@ -1,6 +1,6 @@
 # Progress Bar Timer Chrome Extension
 
-**Note:** This project was built entirely using the Code Copilot GPT, and the code was not optimized or checked in detail by a human.
+_**Note:** This project was built entirely using the Code Copilot GPT, and the code was not optimized or checked in detail by a human._
 
 ## Description
 
